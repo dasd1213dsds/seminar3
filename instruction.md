@@ -56,3 +56,7 @@ git diff инициирует функцию сравнения источник
     git branch<branch_name>
 
 ### Слияние веток
+
+Для слияния веток используется команда:
+
+    git branch merge <branch_name>

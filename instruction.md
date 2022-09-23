@@ -62,3 +62,7 @@ git diff инициирует функцию сравнения источник
     git branch merge <branch_name>
 
 ### Удаление веток
+
+Для удаления веток используется команда:
+
+    git branch -d <branchname>
